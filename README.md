@@ -1,5 +1,12 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150"/>
+</div>
+
 ### Heyya, I'm Tracy 👋👑,
+<p align="center">
 A front-end and mobile app developer from Ghana. I have three years experience 😎 in web development and some months experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
+</p>
+<hr/>
  
  - 🔭 Currently working on a freelance platform that seeks to connect international clients with african talents to work on their long and short term projects remotely.
  - 🏫 A student pursuing a bachelor of technology in Software Engineering.
