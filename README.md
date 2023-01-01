@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150"/>
 </div>
 
-### Heyya, I'm Tracy 👋👑,
+### Heyya, I'm Tracy 👋👑
 <p align="center">
 A front-end and mobile app developer from Ghana with three years experience 😎 in web development and some months experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
 </p>
@@ -45,7 +45,6 @@ A front-end and mobile app developer from Ghana with three years experience 😎
 
 
 <p align="left">WHERE TO FIND ME🔎</p>
-&nbsp;
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />(https://www.linkedin.com/in/tracy-sarah-afram-owusu-165b6818a/)
 &nbsp;
 
