@@ -7,7 +7,9 @@
 - 💬 Ask me anything related to React.
 - 😄 Pronouns: She/her👑
 - ⚡ Fun fact: Play me any amapiano or afrobeats song and you won't see me innocently as you always will 😛 && love sharing memes😂.
-- 
+
+
+
 TOOLS🔨 AND PROGRAMMING LANGUAGES👩‍💻
 
 &nbsp;
@@ -32,6 +34,13 @@ TOOLS🔨 AND PROGRAMMING LANGUAGES👩‍💻
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+&nbsp;
+
+
+
+WHERE TO FIND ME🔎
+&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />(https://www.linkedin.com/in/tracy-sarah-afram-owusu-165b6818a/)
 &nbsp;
 
 
