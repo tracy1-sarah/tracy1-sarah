@@ -7,7 +7,7 @@
 - 💬 Ask me anything related to React.
 - 📫 How to reach me:  email
 - 😄 Pronouns: She/her👑
-- ⚡ Fun fact: Play me any amapiano or afrobeats song and you won't see me innocently as you always will 😛.
+- ⚡ Fun fact: Play me any amapiano or afrobeats song and you won't see me innocently as you always will 😛 && love sharing memes😂.
 
 ![](https://komarev.com/ghpvc/?username=tracy1-sarah&color=blueviolet&style=plastic)
 
@@ -15,8 +15,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracy1-sarah&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tracy1-sarah&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tracy_spec)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tracy1-sarah)](https://github.com/anuraghazra/github-readme-stats)
 
 
-love memes🤣
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
