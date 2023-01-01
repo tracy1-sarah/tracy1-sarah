@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Flutter && Data Structures and Algorithms😍.
 - 👯 I’m looking to collaborate on projects which involves react, react native and next js.
 - 💬 Ask me anything related to React.
-- 📫 How to reach me:  email
 - 😄 Pronouns: She/her👑
 - ⚡ Fun fact: Play me any amapiano or afrobeats song and you won't see me innocently as you always will 😛 && love sharing memes😂.
 
