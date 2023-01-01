@@ -1,13 +1,13 @@
-### Howdyyyy 👋
- I am Tracy Sarah Afram-Owusu👑, a front-end and mobile app developer from Ghana. I have three years experience 😎 in web development and some months experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
+### Heyya, I'm Tracy 👋👑,
+A front-end and mobile app developer from Ghana. I have three years experience 😎 in web development and some months experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
  
- - 🔭 I’m currently working on a freelance platform that seeks to connect international clients with african talents to work on their long and short term projects remotely.
- - 🏫 I'm also a student pursuing a bachelor of technology in Software Engineering.
-- 🌱 I’m currently learning Flutter && Data Structures and Algorithms😍.
-- 👯 I’m looking to collaborate on projects which involves react, react native and next js.
+ - 🔭 Currently working on a freelance platform that seeks to connect international clients with african talents to work on their long and short term projects remotely.
+ - 🏫 A student pursuing a bachelor of technology in Software Engineering.
+- 🌱 Currently learning Flutter && Data Structures and Algorithms😍.
+- 👯 Looking to collaborate on projects which involves react, react native and next js.
 - 💬 Ask me anything related to React.
 - 😄 Pronouns: She/her👑
-- ⚡ Fun fact: Play me any amapiano or afrobeats song and you won't see me innocently as you always will 😛 && love sharing memes😂.
+- ⚡ Fun fact: Play any amapiano or afrobeats song and you won't see me innocently as you always will 😛 && love sharing memes😂.
 
 
 
