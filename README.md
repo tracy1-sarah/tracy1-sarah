@@ -4,7 +4,7 @@
 
 ### Heyya, I'm Tracy 👋👑,
 <p align="center">
-A front-end and mobile app developer from Ghana. I have three years experience 😎 in web development and some months experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
+A front-end and mobile app developer from Ghana with three years experience 😎 in web development and some months experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
 </p>
 <hr/>
  
@@ -17,8 +17,7 @@ A front-end and mobile app developer from Ghana. I have three years experience �
 - ⚡ Fun fact: Play any amapiano or afrobeats song and you won't see me innocently as you always will 😛 && love sharing memes😂.
 
 
-
-TOOLS🔨 AND PROGRAMMING LANGUAGES👩‍💻
+<p align="left">TOOLS🔨 AND PROGRAMMING LANGUAGES👩‍💻</p>
 
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -45,8 +44,7 @@ TOOLS🔨 AND PROGRAMMING LANGUAGES👩‍💻
 &nbsp;
 
 
-
-WHERE TO FIND ME🔎
+<p align="left">WHERE TO FIND ME🔎</p>
 &nbsp;
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />(https://www.linkedin.com/in/tracy-sarah-afram-owusu-165b6818a/)
 &nbsp;
