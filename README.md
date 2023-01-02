@@ -49,8 +49,7 @@ A front-end and mobile app developer from Ghana with three years experience 😎
 &nbsp;
 
 
-QUICK STATS ABOUT ME📈
-
+<p align="left">QUICK STATS ABOUT ME📈</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracy1-sarah&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tracy1-sarah&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tracy_spec)](https://github.com/anuraghazra/github-readme-stats)
