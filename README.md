@@ -8,9 +8,7 @@ A front-end and mobile app developer from Ghana with four years experience 😎 
 </p>
 <hr/>
  
- - 🔭 Currently working on a freelance platform that seeks to connect international clients with african talents to work on their long and short term projects remotely.
- - 🏫 A student pursuing a bachelor of technology in Software Engineering.
-- 🌱 Currently learning Flutter.
+- 🌱 Currently learning Python.
 - 👯 Looking to collaborate on projects which involves react, react native and next js.
 - 💬 Ask me anything related to React.
 - 😄 Pronouns: She/her👑
