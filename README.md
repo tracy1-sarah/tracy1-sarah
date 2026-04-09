@@ -4,7 +4,7 @@
 
 ### Heyya, I'm Tracy 👋👑
 <p align="center">
-A front-end and mobile app developer from Ghana with four years experience 😎 in web development and one year experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
+A front-end and mobile app developer from Ghana with five years experience 😎 in web development and one year experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
 </p>
 <hr/>
  
