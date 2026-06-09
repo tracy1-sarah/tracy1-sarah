@@ -4,11 +4,11 @@
 
 ### Heyya, I'm Tracy 👋👑
 <p align="center">
-A front-end and mobile app developer from Ghana with five years experience 😎 in web development and one year experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
+A software developer from Ghana with five years experience 😎 in web development and one year experience in mobile app development🙈. Also a strong arts and design professional with a focus on building reusable codes and libraries and analysing customer requirements to create effective, high-end, and user-friendly web solutions.
 </p>
 <hr/>
  
-- 🌱 Currently learning Python.
+- 🌱 Currently learning C#.
 - 👯 Looking to collaborate on projects which involves react, react native and next js.
 - 💬 Ask me anything related to React.
 - 😄 Pronouns: She/her👑
